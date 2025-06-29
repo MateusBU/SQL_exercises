@@ -11,6 +11,5 @@ WHERE uf = 'PR';
 
 SELECT * FROM states;
 
-
 SELECT sta.name, sta.uf, sta.population
 FROM states sta WHERE uf="PR";
